@@ -6,8 +6,8 @@ Synthesizer using a real YM2612 for sound generation and Processing for the synt
 Conexion YM-2612:
 ```
 CLK (  ) ...... Arduino D9
- CS (  ) ...... Arduino A5   
- IC (  ) ...... Arduino A4   
+ IC (  ) ...... Arduino A5   
+ CS (  ) ...... Arduino A4   
  WR (  ) ...... Arduino A3   
  RD (  ) ...... Arduino A2  
  A0 (  ) ...... Arduino A1  
